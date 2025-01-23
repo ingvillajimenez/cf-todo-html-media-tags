@@ -1,0 +1,14 @@
+video {
+  height: 240px;
+  display: block;
+  border: 5px solid red;
+  border-radius: 30px;
+}
+
+div {
+  color: blue;
+  font-size: 22px;
+  background-color: peru;
+  width: 100px;
+  margin: 10px;
+}

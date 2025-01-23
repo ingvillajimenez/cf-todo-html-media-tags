@@ -1,0 +1,16 @@
+video {
+  height: 240px;
+}
+
+#videoControls button,
+#videoControls input[type="range"] {
+  font-size: 16px; /* Tamaño adecuado para fácil interacción */
+  padding: 8px; /* Espacio para clic fácil */
+  background: #fff; /* Alto contraste */
+  border: 1px solid #000; /* Bordes visibles */
+}
+
+#videoControls button:focus,
+#videoControls input[type="range"]:focus {
+  outline: 3px solid blue; /* Indicador de foco claro */
+}
